@@ -19,9 +19,4 @@ Welcome to the **Travel Blog** project! This is a responsive and visually appeal
 - **JavaScript**: Dynamic alert generation and interactivity.
 - **Bootstrap Icons**: Icons used for social media links and alerts.
 
-## Installation
 
-To run the project locally, simply download or clone the repository to your local machine.
-
-```bash
-git clone https://github.com/your-username/travel-blog.git
